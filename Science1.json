@@ -1,0 +1,268 @@
+{
+  "76-1": {
+    "question": "When magnesium ribbon is burned in the presence of air, what product is formed?",
+    "options": {
+      "a": "White powder of magnesium oxide",
+      "b": "White powder of magnesium dioxide",
+      "c": "White powder of magnesium carbonate",
+      "d": "Blue powder of magnesium oxide"
+    },
+    "answer": "a",
+    "explanation": "Magnesium ribbon burns in air to form magnesium oxide, which appears as a white powder."
+  },
+  "77-2": {
+    "question": "Stars appear to twinkle at night due to:",
+    "options": {
+      "a": "Atmospheric reflection of star light",
+      "b": "Atmospheric dispersion",
+      "c": "Atmospheric refraction of star light",
+      "d": "Atmospheric scattering of star light"
+    },
+    "answer": "c",
+    "explanation": "The twinkling of stars is due to atmospheric refraction, which causes variations in the light path."
+  },
+  "78-3": {
+    "question": "Maintaining a potential difference between terminals of a conductor involves:",
+    "options": {
+      "a": "Electromagnetic induction",
+      "b": "Induced voltage",
+      "c": "Induced current",
+      "d": "Joule's heating effect"
+    },
+    "answer": "a",
+    "explanation": "Maintaining a potential difference across a conductor involves electromagnetic induction."
+  },
+  "83-8": {
+    "question": "Which of the following is a symptom of Beriberi?",
+    "options": {
+      "a": "Weak teeth and bleeding gums",
+      "b": "Unhealthy skin and swollen abdomen",
+      "c": "Weak muscles and low energy",
+      "d": "Weak vision or partial blindness"
+    },
+    "answer": "c",
+    "explanation": "Beriberi is characterized by weak muscles and low energy."
+  },
+  "84-9": {
+    "question": "To prevent severe global warming, which natural resources should be used prudently?",
+    "options": {
+      "a": "Coal and water",
+      "b": "Metals and coal",
+      "c": "Coal and petroleum",
+      "d": "Petroleum and water"
+    },
+    "answer": "c",
+    "explanation": "To prevent severe global warming, it is important to use coal and petroleum prudently."
+  },
+  "79-4": {
+    "question": "How many triads did Döbereiner identify in his classification system?",
+    "options": {
+      "a": "Two",
+      "b": "Four",
+      "c": "Five",
+      "d": "Three"
+    },
+    "answer": "d",
+    "explanation": "Döbereiner identified three triads in his classification system."
+  },
+  "80-5": {
+    "question": "Which minerals help in protecting crops from pests?",
+    "options": {
+      "a": "Sodium, calcium, and magnesium",
+      "b": "Magnesium, iron, and boron",
+      "c": "Calcium, potassium, and sodium",
+      "d": "Potassium, calcium, and magnesium"
+    },
+    "answer": "b",
+    "explanation": "Magnesium, iron, and boron are minerals that help in protecting crops from pests."
+  },
+  "81-6": {
+    "question": "Regarding reflection by spherical mirrors, which statements are correct?",
+    "options": {
+      "a": "If the object is placed between the pole and focus of a concave mirror, it will form a real image.",
+      "b": "Convex mirrors can converge light rays.",
+      "c": "Only (a) is correct",
+      "d": "Both (a) and (b) are correct"
+    },
+    "answer": "c",
+    "explanation": "Convex mirrors cannot converge light rays; they diverge them. Thus, only (a) is correct."
+  },
+  "82-7": {
+    "question": "The phenomenon behind the working of an electric oven is:",
+    "options": {
+      "a": "Electromagnetic induction",
+      "b": "Joule heating effect",
+      "c": "Magnetic induction",
+      "d": "Electric field induction"
+    },
+    "answer": "b",
+    "explanation": "An electric oven works on the Joule heating effect, where electrical energy is converted into heat."
+  },
+  "85-10": {
+    "question": "Which element is replaced by a functional group in a homologous series?",
+    "options": {
+      "a": "Sodium",
+      "b": "Sulfur",
+      "c": "Helium",
+      "d": "Hydrogen"
+    },
+    "answer": "d",
+    "explanation": "In a homologous series, the element hydrogen is replaced by a functional group."
+  },
+  "86-11": {
+    "question": "In the context of a prism dispersing light, which option is correct?",
+    "options": {
+      "a": "The red light has the highest speed in the prism.",
+      "b": "The speed of violet light in the prism is the lowest.",
+      "c": "The refractive index of violet light is highest.",
+      "d": "When the prism is held upright, violet light is at the top and red light at the bottom.",
+      "e": "The formation of a rainbow is also due to dispersion."
+    },
+    "answer": "b",
+    "explanation": "In a prism, violet light has the lowest speed and the highest refractive index. The formation of a rainbow is due to dispersion."
+  },
+  "87-12": {
+    "question": "If the angle between the direction of current and the magnetic field in a conductor is zero, what is the force (F) on the conductor?",
+    "options": {
+      "a": "2F",
+      "b": "F/2",
+      "c": "Zero",
+      "d": "F"
+    },
+    "answer": "c",
+    "explanation": "When the angle is zero, the force on the conductor is zero."
+  },
+  "88-13": {
+    "question": "The mixture of sodium bicarbonate and a weak food acid is called:",
+    "options": {
+      "a": "Baking soda",
+      "b": "Washing soda",
+      "c": "Baking powder",
+      "d": "Bleaching powder"
+    },
+    "answer": "c",
+    "explanation": "The mixture of sodium bicarbonate and a weak acid is known as baking powder."
+  },
+  "89-14": {
+    "question": "In Döbereiner's triads, how were the elements arranged?",
+    "options": {
+      "a": "In increasing order of atomic masses from left to right",
+      "b": "In decreasing order of atomic masses from left to right",
+      "c": "In ascending order of atomic masses within a group",
+      "d": "In descending order of atomic masses within a group"
+    },
+    "answer": "a",
+    "explanation": "Döbereiner arranged elements in his triads in increasing order of atomic masses from left to right."
+  },
+  "90-15": {
+    "question": "With an increase in the magnetic field generated by a current-carrying conductor, which of the following decreases?",
+    "options": {
+      "a": "Voltage",
+      "b": "Distance",
+      "c": "Resistance",
+      "d": "Current"
+    },
+    "answer": "c",
+    "explanation": "As the magnetic field strength increases, the resistance of the conductor decreases."
+  },
+  "91-16": {
+    "question": "When a thin beam of light passes through a prism, the light:",
+    "options": {
+      "a": "Will twinkle",
+      "b": "Will be reflected",
+      "c": "Will be refracted",
+      "d": "Will be dispersed"
+    },
+    "answer": "d",
+    "explanation": "Light disperses into its component colors when it passes through a prism."
+  },
+  "92-17": {
+    "question": "If an object is placed at a distance of 60 cm from a concave lens with a focal length of 30 cm, what will be the magnification of the image formed?",
+    "options": {
+      "a": "-1.33",
+      "b": "+1.33",
+      "c": "-0.33",
+      "d": "+0.33"
+    },
+    "answer": "c",
+    "explanation": "Using the lens formula 1/f = 1/v - 1/u and magnification m = v/u, the magnification is -0.33."
+  },
+  "93-18": {
+    "question": "What is the molecular formula of the second member of the alkene series?",
+    "options": {
+      "a": "C₄H₈",
+      "b": "C₅H₁₀",
+      "c": "C₆H₁₂",
+      "d": "C₃H₆"
+    },
+    "answer": "d",
+    "explanation": "The second member of the alkene series is C₃H₆."
+  },
+  {
+  "95-20": {
+    "question": "Which non-metal allotrope is a good conductor of electricity?",
+    "options": {
+      "a": "Carbon",
+      "b": "Sulfur",
+      "c": "Phosphorus",
+      "d": "Oxygen"
+    },
+    "answer": "a",
+    "explanation": "Among the non-metal allotropes, carbon (specifically graphite) is a good conductor of electricity."
+  },
+  "96-21": {
+    "question": "What is the largest number that is divisible by both 36 and 45 and that can be subtracted from 10,000? Find the result.",
+    "options": {
+      "a": "180",
+      "b": "120",
+      "c": "150",
+      "d": "100"
+    },
+    "answer": "b",
+    "explanation": "The largest number divisible by both 36 and 45 is their Least Common Multiple (LCM), which is 180. Subtracting this from 10,000 gives 10,000 - 180 = 9,820."
+  },
+  "97-22": {
+    "question": "If the difference in selling prices of an item at a 20% profit and a 17.5% loss is Rs.1440, what will be the selling price if it is sold at a 15% profit?",
+    "options": {
+      "a": "Rs.4108",
+      "b": "Rs.4218",
+      "c": "Rs.4612",
+      "d": "Rs.4416"
+    },
+    "answer": "d",
+    "explanation": "Let the cost price be Rs. X. Selling price at 20% profit is X + 0.2X = 1.2X and at 17.5% loss is X - 0.175X = 0.825X. The difference is 1.2X - 0.825X = 0.375X, which equals Rs.1440. Therefore, X = 1440 / 0.375 = Rs.3840. Selling price at 15% profit is 1.15X = 1.15 * 3840 = Rs.4416."
+  },
+  "98-23": {
+    "question": "Kiran lent Rs.5,00,000 to Kishore at 12% per annum compound interest, and Kishore lent the same amount to Kavya at 15% per annum simple interest. What is the difference in the interest earned by Kiran and Kishore after 3 years?",
+    "options": {
+      "a": "Rs.24,536",
+      "b": "Rs.25,536",
+      "c": "Rs.26,536",
+      "d": "Rs.22,536"
+    },
+    "answer": "b",
+    "explanation": "Kiran's compound interest after 3 years: A = P(1 + r/n)^(nt) = 500000(1 + 0.12/1)^(1*3) = 500000 * (1.12)^3 ≈ Rs. 704,000. Total interest = 704,000 - 500,000 = Rs. 204,000. Kishore's simple interest = P * r * t = 500000 * 0.15 * 3 = Rs. 225,000. Difference in interest = 225,000 - 204,000 = Rs. 21,000."
+  },
+  "99-24": {
+    "question": "What is the value of 0.6 × 0.6 + 0.3 - 0.2 × 0.3 - 0.6 / (0.1 × 0.2 + 0.4)?",
+    "options": {
+      "a": "12.5",
+      "b": "13.2",
+      "c": "14.6",
+      "d": "15.2"
+    },
+    "answer": "b",
+    "explanation": "Calculating the expression: 0.6 × 0.6 + 0.3 - 0.2 × 0.3 - 0.6 = 0.36 + 0.3 - 0.06 - 0.6 = 0.3. Denominator: 0.1 × 0.2 + 0.4 = 0.02 + 0.4 = 0.42. Therefore, 0.3 / 0.42 ≈ 0.714."
+  },
+  "100-25": {
+    "question": "For a triangle with vertices (4, 1), (1, 1), and (3, 5), what type of triangle is it?",
+    "options": {
+      "a": "Isosceles and right-angled",
+      "b": "Scalene triangle",
+      "c": "Isosceles but not right-angled",
+      "d": "Right-angled but not isosceles"
+    },
+    "answer": "b",
+    "explanation": "By calculating the sides using distance formula, it is found that all sides are of different lengths, thus the triangle is scalene."
+  }
+}
